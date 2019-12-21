@@ -1,0 +1,9 @@
+https://k8gege.org
+
+2011-2019 Top 25 most common passwords by year according to SplashData 
+https://en.wikipedia.org/wiki/List_of_the_most_common_passwords
+
+Top 100 passwords used in SSH attacks against my VPS
+https://livesshattack.net/blog/2016-08-28/top-100-passwords-used-in-ssh-attacks-against-my-vps
+
+https://www.dfir.vn/2018/05/03/top-100-passwords-vietnamese/
